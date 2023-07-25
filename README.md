@@ -1,16 +1,15 @@
-# first_app
+<br>
 
-A new Flutter project.
+<p align="center"><a href="https://github.com/MicheleAbategiovanni" target="_blank"><img src="logo.png" width="150" alt="Michele Abategiovanni Logo"></a></p>
 
-## Getting Started
+<p align="center">
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/badge/Framework-FLutter-cyano alt="Flutter"></a>
+</p>
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+# 🏠 <strong>Roll Dice - FLutter Project</strong>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<strong>Roll Dice</strong> is a first project based on the <strong>Flutter</strong> framework. <br>
+In this project I started to see the fundamental basis of this framework.
+The App allows, through a Button, to generate random sides of the dice. <br>
