@@ -5,7 +5,7 @@
 
 <br>
 
-# <strong>Roll Dice - FLutter Project</strong>
+# <strong>Roll Dice - Flutter Project</strong>
 
 <strong>Roll Dice</strong> is a first project based on the <strong>Flutter</strong> framework. <br>
 In this project I started to see the fundamental basis of this framework.
